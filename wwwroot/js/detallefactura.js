@@ -1,0 +1,8 @@
+﻿class DetalleFactura {
+    constructor() {
+
+    }
+
+    listaClientes(
+    )
+}
